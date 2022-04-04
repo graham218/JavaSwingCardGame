@@ -24,12 +24,6 @@
 *
 *   Additional Files:
 *
-*   Created:
-*       2017/02/08
-*
-*   Author/s:
-*       Faiga Revah, Roderick Burkhardt, Oswaldo Minez
-*
 * ==================================================================*/
 
 
